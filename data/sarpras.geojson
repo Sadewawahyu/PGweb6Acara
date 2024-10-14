@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "sarpras",
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "ID": 0, "SARANA_PRA": "Pelabuhan Ferry" }, "geometry": { "type": "Point", "coordinates": [ 116.776606461644, -1.242420196647 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "ID": 0, "SARANA_PRA": "Pelabuhan Klotok dan Speed" }, "geometry": { "type": "Point", "coordinates": [ 116.77768166442, -1.243448651476 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "ID": 0, "SARANA_PRA": "Pasar" }, "geometry": { "type": "Point", "coordinates": [ 116.773661340995, -1.248684421517 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "ID": 0, "SARANA_PRA": "Terminal" }, "geometry": { "type": "Point", "coordinates": [ 116.773334105368, -1.248544177677 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "ID": 0, "SARANA_PRA": "Dermaga" }, "geometry": { "type": "Point", "coordinates": [ 116.531377458845, -1.522022142325 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "ID": 0, "SARANA_PRA": "Mata Air" }, "geometry": { "type": "Point", "coordinates": [ 116.59977550782, -1.376495497562 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "ID": 0, "SARANA_PRA": "PLTD" }, "geometry": { "type": "Point", "coordinates": [ 116.660194490202, -1.349362180328 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "ID": 0, "SARANA_PRA": "TPA Buluminung" }, "geometry": { "type": "Point", "coordinates": [ 116.757122638142, -1.247859073493 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "ID": 0, "SARANA_PRA": "SPBU" }, "geometry": { "type": "Point", "coordinates": [ 116.771022609589, -1.252597700123 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "ID": 0, "SARANA_PRA": "Penangkaran Rusa" }, "geometry": { "type": "Point", "coordinates": [ 116.563027429565, -1.428211769897 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "ID": 0, "SARANA_PRA": "Sentra Peternakan Sapi Brahma" }, "geometry": { "type": "Point", "coordinates": [ 116.414452058309, -1.136680540215 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "ID": 0, "SARANA_PRA": "Tower / BTS" }, "geometry": { "type": "Point", "coordinates": [ 116.389907317757, -1.495755539125 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "ID": 0, "SARANA_PRA": "Tower / BTS" }, "geometry": { "type": "Point", "coordinates": [ 116.60177045184, -1.400753419477 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "ID": 0, "SARANA_PRA": "Tower / BTS" }, "geometry": { "type": "Point", "coordinates": [ 116.659500353455, -1.265956901628 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "ID": 0, "SARANA_PRA": "Tower / BTS" }, "geometry": { "type": "Point", "coordinates": [ 116.748897628286, -1.274924653335 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "ID": 0, "SARANA_PRA": "Tower / BTS" }, "geometry": { "type": "Point", "coordinates": [ 116.757865379993, -1.261473025774 ] } }
+]
+}
